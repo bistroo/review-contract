@@ -2,7 +2,7 @@
 Use voting tokens to upvote Merchants and exchange them for rewards 
 
 ## Process flow
-Roles
+###### Roles
 * Consumer: Upvotes an order, gets rewards for submitted upvotes
 * Merchant: Receives upvotes for an order, gets rewards for received upvotes
 * Admin: Sets the smart contract variabes
@@ -13,7 +13,7 @@ Roles
 3.	Merchant receives Rm BIST after Um upvotes
 4.	Consumer receives Rc BIST after Uv upvotes
 
-Notes:
+###### Notes:
 * Reward balance of contract needs to be monitored
 
 ![Review schematic](https://github.com/bistroo/review-contract/blob/main/images/review-schematic.png)
