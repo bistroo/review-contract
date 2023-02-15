@@ -16,8 +16,8 @@ Roles
 Notes:
 * Reward balance of contract needs to be monitored
 
-![Review schematic](https://github.com/bistroo/smart-contracts/blob/main/images/review-schematic.png)
-![Review application design](https://github.com/bistroo/smart-contracts/blob/main/images/review-application-design.png)
+![Review schematic](https://github.com/bistroo/review-contract/blob/main/images/review-schematic.png)
+![Review application design](https://github.com/bistroo/review-contract/blob/main/images/review-application-design.png)
 
 # Installation
 
