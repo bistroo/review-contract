@@ -7,7 +7,7 @@ Roles
 * Merchant: Receives upvotes for an order, gets rewards for received upvotes
 * Admin: Sets the smart contract variabes
 
-######Process
+###### Process
 1.	Consumer places an order and receives a unique upvote link
 2.	Consumer submits upvotes for the merchant
 3.	Merchant receives Rm BIST after Um upvotes
